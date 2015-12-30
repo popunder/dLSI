@@ -2,7 +2,6 @@
 %
 %   Copyright 2006-2010 University of Fribourg
 %   Contact: Pavel Zakharov - pv.zakharov@gmail.com
-%   $Id: dlsi_example.m 35 2013-09-30 06:46:27Z popunder $
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 

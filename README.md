@@ -12,5 +12,6 @@ Matlab package implementing dynamic Laser Speckle Imaging (dLSI) algorithm as de
 [1] "Dynamic laser speckle imaging of cerebral blood flow", P. Zakharov, A.C. Völker, M.T. Wyss, F. Haiss, N. Calcinaghi, C. Zunzunegui, A. Buck, F. Scheffold, B. Weber, Optics Express, 2009;17(16):13904-17 
 
 Originated in University of Fribourg and University Hospital of Zurich, Switzerland
+
 Contact: Pavel Zakharov - pv.zakharov@gmail.com 
 
